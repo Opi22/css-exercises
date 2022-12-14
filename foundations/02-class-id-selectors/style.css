@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#sec {
+
+    font-size: 36px;
+    color: rgba(0, 0, 255, 0.788);
+}
+
+#th3 {
+    font-size: 24px;
+}
+
+#th4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
